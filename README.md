@@ -49,6 +49,13 @@ Let’s elevate our energy, mind, and mission — one Monday at a time.
 #ConsciousLeadership  
 
 ---
+![Leadership, Integrity & Society](./leadership-cover.png)
+
+# 🧠 Daily Motivation Feature: Leadership, Integrity & Society
+
+_A motivational and ethical call to elevate leadership, truth, and collective integrity._
+
+---
 
 ---
 "Leadership, Integrity & Society: Why Insults and Lies Destroy"
