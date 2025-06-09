@@ -151,8 +151,8 @@ In a world chasing visibility, this reflection reminds us:
 - Recognition may follow, but it does not define your worth.
 - Existence is not just form — it's **presence**, **intention**, and **becoming**.
 
-🎴 [View the Gamma Presentation](https://gamma.app/docs/To-Be-is-to-Matter-Motivation-Inspiration-bpk9x3j4k5v0z9r)  
-📄 [Download the PDF](../path/to/To-Be-is-to-Matter.pdf)
+🎴 [View the Gamma Presentation](To-Be-is-to-Matter.pdf)  
+📄 [Download the PDF](To-Be-is-to-Matter.pdf)
 
 **You matter before the world notices.**  
 **You are because you *be*.**
