@@ -140,3 +140,24 @@ Let’s be **builders, not breakers**. That’s Zabatissu Quality. That’s #Sti
 📌 Save. Share. Speak truth boldly.  
 📂 Powered by Daily Motivation + Zabatissu Vibes.
 
+---
+
+## 🌄 Daily Motivation — "To Be is to Matter"
+
+> "Do you have to exist to be — or be to exist?"
+
+In a world chasing visibility, this reflection reminds us:
+- You *are* when you dream, love, and speak truth.
+- Recognition may follow, but it does not define your worth.
+- Existence is not just form — it's **presence**, **intention**, and **becoming**.
+
+🎴 [View the Gamma Presentation](https://gamma.app/docs/To-Be-is-to-Matter-Motivation-Inspiration-bpk9x3j4k5v0z9r)  
+📄 [Download the PDF](../path/to/To-Be-is-to-Matter.pdf)
+
+**You matter before the world notices.**  
+**You are because you *be*.**
+
+---
+
+#stilldoinit • #ZabatissuThoughts • #ElevateAscendTranscend  
+🦁🐢⚖️
