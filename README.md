@@ -176,7 +176,7 @@ This motivational piece challenges limiting beliefs, ignites self-worth, and cal
 
 ✨ This is the [**Zabatissu mindset**](https://jemaelnzihou.github.io/Portfolio/index.html) — We rise. We move. We’re #StillDoinIt.
 
-📄 [**Read the full Daily Motivation (PDF)**](./Live-Bold-Be-You-No-Permission-Needed.pdf)
+📄 [**Read the full Daily Motivation (PDF)**](Live-Bold-Be-You-No-Permission-Needed.pdf)
 
 ---
 
