@@ -318,3 +318,83 @@ Feel free to:
 **Elevate. Ascend. Transcend.**  
 #StillDoinIt
 
+---
+
+# 📰 Deontology, Duty, and Journalism
+
+**Author**: Jemael Nzihou  
+**Project**: [Daily Motivation Series](https://github.com/jemaelnzihou/Daily-Motivation)
+
+---
+
+## 📘 Overview
+
+The foundational ethical framework of **deontology**—the philosophy that certain actions are morally required or forbidden regardless of consequences—and applies it to one of the most critical institutions of modern society: **journalism**.
+
+In a world where truth is often manipulated, this reflection calls for a return to **duty-based ethics**, especially in media, to preserve public trust and democratic integrity.
+
+---
+
+## 🧭 Key Themes
+
+- **What is Deontology?**  
+  Based on Immanuel Kant’s moral philosophy, deontology emphasizes duty, universal moral rules, and respect for persons over outcome-driven thinking.
+
+- **The Crisis in Journalism**  
+  Modern media faces challenges such as bias, sensationalism, and misinformation. The paper outlines how abandoning ethical duty results in:
+  - Public mistrust
+  - Polarization
+  - Propaganda replacing facts
+
+- **Deontological Solutions**  
+  The work advocates for journalists to:
+  - Tell the truth
+  - Report impartially
+  - Respect human dignity
+  - Serve the public interest over private agendas
+
+---
+
+## 🧠 Key Insight
+
+> **“Be the deontologist the world tries to silence.”**  
+> Defend truth over convenience.  
+> Dare to live by duty—even when it’s unpopular.
+
+---
+
+## 📄 Full PDF
+
+👉 [Download/Read the Paper](https://github.com/jemaelnzihou/Daily-Motivation/blob/main/Deontology-Duty-and-Journalism.pdf)
+
+---
+
+## 🌍 License
+
+This work is shared as part of the **Daily Motivation ** and is intended for educational, motivational, and reflective use. All rights reserved unless otherwise stated.
+
+---
+
+## 🔗 Supporting Academic Resources
+
+Here are key academic sources to further explore the themes addressed in this work:
+
+1. **Kantian Ethics and Deontology**
+   - [Stanford Encyclopedia of Philosophy – Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/)
+   - [Kant’s Moral Philosophy (SEP)](https://plato.stanford.edu/entries/kant-moral/)
+
+2. **Media Ethics & Journalism**
+   - [Truth and Journalism: Ethical Implications – Journal of Media Ethics](https://doi.org/10.1080/23736992.2018.1558453)
+   - [The Role of Journalism in Democracy – Journalism Studies](https://doi.org/10.1080/1461670X.2021.1955386)
+
+3. **Consequences of Abandoning Duty**
+   - [The Decline of Public Trust in Journalism – Digital Journalism](https://doi.org/10.1080/21670811.2019.1697624)
+   - [Media Bias and Polarization – Annual Review of Political Science](https://doi.org/10.1146/annurev-polisci-051117-073745)
+
+---
+
+## ✉️ Connect
+
+If this work inspires you, challenges your thinking, or raises questions, feel free to engage in discussion or connect via LinkedIn or GitHub.  
+Let's **Elevate. Ascend. Transcend.**  
+#stilldoinit
