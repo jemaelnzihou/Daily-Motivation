@@ -384,14 +384,13 @@ Here are key academic sources to further explore the themes addressed in this wo
    - [Kant’s Moral Philosophy (SEP)](https://plato.stanford.edu/entries/kant-moral/)
 
 2. **Media Ethics & Journalism**
-   - [Truth and Journalism: Ethical Implications – Journal of Media Ethics](https://doi.org/10.1080/23736992.2018.1558453)
-   - [The Role of Journalism in Democracy – Journalism Studies](https://doi.org/10.1080/1461670X.2021.1955386)
+- [The Ethics of Reporting: Balancing Truth and Sensationalism](https://www.globalmediajournal.com/open-access/the-ethics-of-reporting-balancing-truth-and-sensationalism-in-global-media.php) — explores the tension between accuracy and sensationalism in modern reporting :contentReference[oaicite:1]{index=1}  
+- [What Does “Trust in the Media” Mean? (Journalism, Sage)](https://www.jstor.org/stable/48696778) — examines long-term trends in public trust :contentReference[oaicite:2]{index=2}  
+- [Senses of Truth and Journalism’s Epistemic Crisis (Journal of Media Ethics, 2022)](https://doi.org/10.1080/23736992.2022.2107523) — explores varying conceptions of truth in media :contentReference[oaicite:3]{index=3}
 
-3. **Consequences of Abandoning Duty**
-   - [The Decline of Public Trust in Journalism – Digital Journalism](https://doi.org/10.1080/21670811.2019.1697624)
-   - [Media Bias and Polarization – Annual Review of Political Science](https://doi.org/10.1146/annurev-polisci-051117-073745)
-
----
+ 3. **Consequences of Abandoning Duty**
+- [Media and Political Polarization (Annual Review of Political Science, 2013)](https://doi.org/10.1146/annurev-polisci-100711-135242) — shows how partisan media fuels polarization :contentReference[oaicite:4]{index=4}  
+- [The Origins and Consequences of Affective Polarization in the U.S. (ARPS, 2019)](https://doi.org/10.1146/annurev-polisci-051117-073034) — examines affective polarization’s impact on public trust :contentReference[oaicite:5]{index=5}
 
 ## ✉️ Connect
 
